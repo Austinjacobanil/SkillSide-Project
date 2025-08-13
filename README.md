@@ -3,7 +3,7 @@
 SkillSide is a full-stack web application that connects students with compatible study partners based on their goals, habits, and preferences. 
 It combines AI, real-time communication, and clean backend architecture to enhance virtual learning experiences.
 
-Diployment link: https://skillside-project.onrender.com
+Deployment link: https://skillside-project.onrender.com
 
 ## Features
 
